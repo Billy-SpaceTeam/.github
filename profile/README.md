@@ -1,3 +1,5 @@
+<img src="/assets/IMG_Main.png">
+
 # 🛰️ Billy Space Team — Projet CubeSat Billy
 
 Bienvenue sur le profil officiel de l'équipe **Billy Space Team** !  
