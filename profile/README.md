@@ -11,10 +11,10 @@ Ce projet s'inscrit dans le cadre de notre cursus en **BUT Génie Électrique et
 Il s'agit d'un système embarqué communicant conçu pour récolter des données télémétriques de vol, transmettre ses mesures en temps réel et assurer un contrôle d'attitude autonome.
 
 ### 🌟 Fonctionnalités clés
-* **Orientation automatique (ADCS basique) :** asservissement via une roue de réaction (moteur brushless) couplée à des photodiodes / phototransistors pour pointer automatiquement le satellite vers le Soleil.
-* **Déploiement motorisé :** ouverture contrôlée des panneaux solaires par servomoteur une fois le pointage lumineux établi.
-* **Affichage embarqué :** écran LCD intégré sur une face latérale pour l'état du système et le monitoring direct.
-* **Télémétrie multi-liaisons :** communication série (UART/debug), bus I2C interne et transmission sans fil (liaison radio conforme aux bandes radioamateurs).
+* **Orientation automatique :** asservissement via une roue de réaction (moteur brushless) couplée à des photodiodes / phototransistors pour pointer automatiquement le satellite vers le Soleil
+* **Déploiement motorisé :** ouverture contrôlée des panneaux solaires par servomoteur une fois le pointage lumineux établi
+* **Affichage embarqué :** écran LCD intégré sur une face latérale pour l'état du système et le monitoring direct
+* **Télémétrie multi-liaisons :** communication série (UART/debug), bus I2C interne et transmission sans fil
 
 ---
 
