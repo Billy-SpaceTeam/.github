@@ -3,7 +3,7 @@
 # 🛰️ Billy Space Team — Projet CubeSat Billy
 
 Bienvenue sur le profil officiel de l'équipe **Billy Space Team** !  
-Ce projet s'inscrit dans le cadre de notre cursus en **BUT Génie Électrique et Informatique Industrielle (GEII)** à l'**IUT d'Annecy (Université Savoie Mont Blanc)**, spécialité **Électronique et Systèmes Embarqués (ESE)** (SAE301 / SAE302).
+Ce projet s'inscrit dans le cadre de notre cursus en **BUT Génie Électrique et Informatique Industrielle (GEII)** à l'**IUT d'Annecy (Université Savoie Mont Blanc)**, spécialité **Électronique et Systèmes Embarqués (ESE)**
 
 ---
 
