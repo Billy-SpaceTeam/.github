@@ -1,4 +1,4 @@
-<img src="/assets/IMG_Main.png">
+<img src="/assets/IMG_MainHome.png">
 
 # 🛰️ Billy Space Team — Projet CubeSat Billy
 
